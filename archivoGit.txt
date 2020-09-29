@@ -1,1 +1,2 @@
-Este es un archivo para probar gitbash
+Este es un archivo para probar gitbash.
+Este es el primer cambio, se agregó una línea.
